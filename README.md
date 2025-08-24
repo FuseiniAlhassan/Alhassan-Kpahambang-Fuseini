@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Alhassan Kpahambang Fuseini
+0...# 💫 Hi 👋, I'm Alhassan Kpahambang Fuseini
 ✨**Heart for Science, Love for Physics:** Driven by curiosity, powered by discovery.
 
 💡 **I’m a passionate physics researcher and aspiring graduate student exploring the intersections of optics, photonics, condensed matter, and computational physics. My projects often combine physics with machine learning 🤖, simulations 🎥, and visualization 📊 to tackle complex problems and create practical applications.**
